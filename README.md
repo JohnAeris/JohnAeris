@@ -115,10 +115,6 @@ I'm <b>John Aeris</b>, a Computer Engineering student at Batangas State Universi
 - Re-testing
 - Exploratory Testing
 
-### 📌 Pinned Repositories
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=johnaeris&repo=Swag-Labs-Login-Page-Test-Case-Script"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnaeris&repo=Keep-Notes-App"/>
-
 ### 📲 Social
 
 <div id="badges">
@@ -133,3 +129,5 @@ I'm <b>John Aeris</b>, a Computer Engineering student at Batangas State Universi
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnaeris&show_icons=true"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=johnaeris&border_radius=5"/>
+<br>
+### 📌 Pinned Repositories
