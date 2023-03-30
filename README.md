@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 I'm <b>John Aeris</b>, a Computer Engineering student at Batangas State University. As an aspiring Full Stack QA Engineer, I am passionate about building high-quality software and ensuring that it meets the needs of its users. I am currently focused on learning test automation using Selenium WebDriver, and I am excited to apply this knowledge to my future projects.
 
 ### 🖥️ Technical Skills
+
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -102,3 +103,22 @@ I'm <b>John Aeris</b>, a Computer Engineering student at Batangas State Universi
         </tr>
     </tbody>
 </table>
+
+### 🔍 Testing Techniques
+
+- Manual Testing
+- Test Automation
+- System Testing
+    - User Interface Testing
+    - Functional Testing
+- Regression Testing
+- Re-testing
+- Exploratory Testing
+
+### 📲 Social
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin,stackoverflow,github&perline=6)](https://skillicons.dev)
+
+### 📈 GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnaeris&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnaeris&layout=compact"/>
