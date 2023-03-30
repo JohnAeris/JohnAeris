@@ -128,6 +128,4 @@ I'm <b>John Aeris</b>, a Computer Engineering student at Batangas State Universi
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnaeris&show_icons=true"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=johnaeris&border_radius=5"/>
-<br>
-### 📌 Pinned Repositories
+<img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=johnaeris&show_icons=true"/> <img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=johnaeris&border_radius=5"/>
