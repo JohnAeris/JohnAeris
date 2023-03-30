@@ -117,8 +117,13 @@ I'm <b>John Aeris</b>, a Computer Engineering student at Batangas State Universi
 
 ### 📲 Social
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,stackoverflow,github&perline=6)](https://skillicons.dev)
-
-### 📈 GitHub Stats
+<div id="badges">
+  <a href="https://www.linkedin.com/in/johnaerisbarrot/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/aewisshhh">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnaeris&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnaeris&layout=compact"/>
