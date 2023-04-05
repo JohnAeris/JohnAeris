@@ -114,6 +114,7 @@ I'm <b>John Aeris</b>, a Computer Engineering student at Batangas State Universi
 - Regression Testing
 - Re-testing
 - Exploratory Testing
+- Data Driven Testing
 
 ### 📲 Social
 
